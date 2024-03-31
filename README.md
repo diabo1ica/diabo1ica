@@ -1,4 +1,4 @@
-**Welcome to My GitHub Profile!**
+**Welcome to My GitHub Profile!**  
 **About Me** 
 Hey there! 👋 I'm Gary, a passionate computer science student with a keen interest in backend development, data structures, and algorithms. I also have some experience in frontend development using React and React Native, as well as interface design with figma.
 

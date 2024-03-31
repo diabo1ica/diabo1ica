@@ -4,9 +4,9 @@
 Hey there! 👋 I'm Gary, a passionate computer science student with a keen interest in backend development, data structures, and algorithms. I also have some experience in frontend development using React and React Native, as well as interface design with figma.
 
 **What I Do**  
-Backend Development 🌐: I specialize in writing backend code using JavaScript (Node.js), Java, and Python (Django).  
-Frontend Development 🖥️: I dabble in frontend development using React and React Native to create interactive and intuitive user interfaces.  
-Data Structures and Algorithms 🤖: I have a strong foundation in data structures and algorithms and enjoy solving challenging problems in this domain.
+- Backend Development 🌐: I specialize in writing backend code using JavaScript (Node.js), Java, and Python (Django).  
+- Frontend Development 🖥️: I dabble in frontend development using React and React Native to create interactive and intuitive user interfaces.  
+- Data Structures and Algorithms 🤖: I have a strong foundation in data structures and algorithms and enjoy solving challenging problems in this domain.
 
 <!--
 **What You'll Find Here**

@@ -8,13 +8,10 @@ Hey there! 👋 I'm Gary, a passionate computer science student with a keen inte
 - Frontend Development 🖥️: I dabble in frontend development using React and React Native to create interactive and intuitive user interfaces.  
 - Data Structures and Algorithms 🤖: I have a strong foundation in data structures and algorithms and enjoy solving challenging problems in this domain.
 
-<!--
 **What You'll Find Here**
 Backend Projects: You'll find a collection of projects showcasing my backend development skills, including RESTful APIs, microservices, and database management.
-Frontend Projects: I occasionally share frontend projects built using React and React Native to demonstrate my proficiency in frontend development.
-Algorithm Solutions: I enjoy solving algorithmic problems from platforms like LeetCode and HackerRank. You'll find my solutions and explanations here.
-Learning Resources: I'm passionate about continuous learning. I occasionally share resources, tutorials, and articles related to backend development, data structures, algorithms, and more.
--->
+Frontend Projects: You'll also see some of my joint frontend projects built using React and React Native to demonstrate my proficiency in frontend development.
+Algorithm Solutions: I enjoy solving algorithmic problems from platforms like LeetCode and HackerRank. You'll some records of my Hackerrank/Leetcode solutions here.
 
 **Let's Collaborate**  
 I'm always open to collaboration and learning from others. If you have any exciting projects or opportunities, feel free to reach out to me at garyang2002@gmail.com.
